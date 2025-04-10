@@ -5,4 +5,5 @@ Miscellaneous tools for simulating and analyzing amyloid fibrils.
 
 ## Contents
 extend_fibril.py: Add more layers to a PDB of an amyloid fibril. 
+
 find_internal_waters.py: Identify waters inside of a water channel in an MD trajectory of an amyloid fibril. 
